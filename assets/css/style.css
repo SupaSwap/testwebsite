@@ -1617,7 +1617,7 @@ section {
 /*--------------------------------------------------------------
 # Intro Image
 --------------------------------------------------------------*/
-#intro-image.intro-image {
+#intro-image {
     max-width: 60% !important;
     height: auto !important;
     display: block !important;
