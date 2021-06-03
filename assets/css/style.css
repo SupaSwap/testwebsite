@@ -459,7 +459,7 @@ section {
   font-size: 15px;
   padding-bottom: 60px;
   color: #535074;
-  width: 50%;
+  width: 100%;
 }
 
 @media (max-width: 767px) {
