@@ -1617,11 +1617,3 @@ section {
 /*--------------------------------------------------------------
 # Intro Image
 --------------------------------------------------------------*/
-#intro-image {
-    max-width: 60% !important;
-    height: auto !important;
-    display: block !important;
-    margin-left: auto !important;
-    margin-right: auto !important;
-    padding-top: 10% !important;
-}
