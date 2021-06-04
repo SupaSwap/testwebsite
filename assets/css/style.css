@@ -1647,6 +1647,7 @@ img, svg {
     background: #f5f8fd url(../img/intro-bg.jpg) center top no-repeat;
     background-size: cover;
     padding-top: 110px;
+    color: white;
 }
 
 
@@ -1657,4 +1658,5 @@ img, svg {
     background: #f5f8fd url(../img/intro-bg.jpg) center top no-repeat;
     background-size: cover;
     padding-top: 110px;
+    color: white;
 }
