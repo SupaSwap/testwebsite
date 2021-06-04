@@ -1234,6 +1234,8 @@ section {
   cursor: pointer;
   color: #158caf;
   transition: 0.3s;
+  margin-left: 50%;
+  margin-right: 50%;
 }
 
 #faq .faq-list i {
