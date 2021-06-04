@@ -1642,7 +1642,7 @@ img, svg {
 --------------------------------------------------------------*/
 #hero-wp {
     width: 100%;
-    height: 100vh;
+    height: 70vh;
     position: relative;
     background: #f5f8fd url(../img/intro-bg.jpg) center top no-repeat;
     background-size: cover;
@@ -1652,7 +1652,7 @@ img, svg {
 
 #hero-cs {
     width: 100%;
-    height: 100vh;
+    height: 70vh;
     position: relative;
     background: #f5f8fd url(../img/intro-bg.jpg) center top no-repeat;
     background-size: cover;
